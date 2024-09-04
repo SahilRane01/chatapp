@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598640498329",
+    "project_id": "chatappmini-6300d",
+    "storage_bucket": "chatappmini-6300d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598640498329:android:82906429cc96726d3a8a08",
+        "android_client_info": {
+          "package_name": "com.celestialbeing01.minichat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy9R0oZe33A2c73iRjlBQyUsiw1Zbwgkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
