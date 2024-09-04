@@ -49,20 +49,5 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCy9R0oZe33A2c73iRjlBQyUsiw1Zbwgkc',
-    appId: '1:598640498329:android:82906429cc96726d3a8a08',
-    messagingSenderId: '598640498329',
-    projectId: 'chatappmini-6300d',
-    storageBucket: 'chatappmini-6300d.appspot.com',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCI46Wn2u_0OxKnd99TNpyDXo3TOEw4z5w',
-    appId: '1:598640498329:ios:4b5936b5fd63cf593a8a08',
-    messagingSenderId: '598640498329',
-    projectId: 'chatappmini-6300d',
-    storageBucket: 'chatappmini-6300d.appspot.com',
-    iosBundleId: 'com.example.minichat',
-  );
+ 
 }
